@@ -1,0 +1,398 @@
+[
+    {
+        "id": "chef001",
+        "name": "Martin Yan",
+        "specialty": "Cantonese cuisine",
+        "notable_works": [
+            "Yan Can Cook"
+        ],
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MartinYan_2004.12.jpg/800px-MartinYan_2004.12.jpg",
+        "likes": 15000,
+        "short_bio": "Martin Yan, a renowned chef specializing in Cantonese cuisine, is best known for his popular TV show 'Yan Can Cook.' With over 40 years of culinary experience, Martin has become a global ambassador for Chinese cooking, sharing his passion for delicious and accessible dishes. His charismatic personality and culinary expertise have earned him a massive following and numerous accolades in the culinary world.",
+        "years_of_experience": 45,
+        "recipes": [
+            {
+                "recipe_id": "r001",
+                "recipe_name": "Cantonese Sweet and Sour Chicken",
+                "image_url": "https://example.com/sweet_and_sour_chicken.jpg",
+                "ingredients": [
+                    "Chicken breast",
+                    "Bell peppers",
+                    "Pineapple",
+                    "Sweet and sour sauce"
+                ],
+                "cooking_method": "1. Marinate chicken, 2. Stir-fry with vegetables, 3. Add sweet and sour sauce, 4. Serve over rice.",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": "r002",
+                "recipe_name": "Dim Sum Shrimp Dumplings (Har Gow)",
+                "image_url": "https://example.com/har_gow.jpg",
+                "ingredients": [
+                    "Shrimp",
+                    "Bamboo shoots",
+                    "Wheat starch wrappers",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Mix shrimp filling, 2. Wrap in wrappers, 3. Steam until translucent, 4. Serve with soy sauce.",
+                "rating": 4.9
+            },
+            {
+                "recipe_id": "r003",
+                "recipe_name": "Beef and Broccoli Stir-Fry",
+                "image_url": "https://example.com/beef_and_broccoli.jpg",
+                "ingredients": [
+                    "Beef sirloin",
+                    "Broccoli",
+                    "Soy sauce",
+                    "Oyster sauce"
+                ],
+                "cooking_method": "1. Sear beef, 2. Stir-fry with broccoli, 3. Add sauces, 4. Serve over noodles.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "r004",
+                "recipe_name": "Egg Drop Soup",
+                "image_url": "https://example.com/egg_drop_soup.jpg",
+                "ingredients": [
+                    "Chicken broth",
+                    "Eggs",
+                    "Green onions",
+                    "Sesame oil"
+                ],
+                "cooking_method": "1. Heat broth, 2. Drizzle in beaten eggs, 3. Stir gently, 4. Garnish with green onions.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": "chef002",
+        "name": "Chen Kenichi",
+        "specialty": "Sichuan cuisine",
+        "notable_works": [
+            "Iron Chef"
+        ],
+        "picture_url": "https://ironchefallstars.com/wp-content/uploads/2017/06/c3-1.jpg",
+        "likes": 12000,
+        "short_bio": "Chen Kenichi, known as the 'Szechuan Sage' on the iconic TV show 'Iron Chef,' is a master of Sichuan cuisine. With a culinary career spanning several decades, Chen has elevated the art of Chinese cooking with his innovative and bold flavors. His fiery and dynamic approach in the kitchen has captivated audiences around the world.",
+        "years_of_experience": 50,
+        "recipes": [
+            {
+                "recipe_id": "r005",
+                "recipe_name": "Mapo Tofu",
+                "image_url": "https://example.com/mapo_tofu.jpg",
+                "ingredients": [
+                    "Tofu",
+                    "Minced pork",
+                    "Sichuan peppercorns",
+                    "Chili bean paste"
+                ],
+                "cooking_method": "1. Sauté pork, 2. Add tofu, 3. Stir in peppercorns and chili bean paste, 4. Serve with rice.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "r006",
+                "recipe_name": "Kung Pao Chicken",
+                "image_url": "https://example.com/kung_pao_chicken.jpg",
+                "ingredients": [
+                    "Chicken thighs",
+                    "Peanuts",
+                    "Dried red chilies",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Stir-fry chicken, peanuts, and chilies, 2. Add soy sauce, 3. Serve with steamed rice.",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": "r007",
+                "recipe_name": "Sichuan Dan Dan Noodles",
+                "image_url": "https://example.com/dan_dan_noodles.jpg",
+                "ingredients": [
+                    "Egg noodles",
+                    "Minced pork",
+                    "Soy sauce",
+                    "Sichuan peppercorns"
+                ],
+                "cooking_method": "1. Cook noodles, 2. Sauté pork, 3. Mix with soy sauce and peppercorns, 4. Garnish and serve.",
+                "rating": 4.9
+            },
+            {
+                "recipe_id": "r008",
+                "recipe_name": "Hot and Sour Soup",
+                "image_url": "https://example.com/hot_and_sour_soup.jpg",
+                "ingredients": [
+                    "Chicken broth",
+                    "Wood ear mushrooms",
+                    "Tofu",
+                    "Vinegar"
+                ],
+                "cooking_method": "1. Bring broth to a boil, 2. Add mushrooms and tofu, 3. Season with vinegar, 4. Serve hot.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": "chef003",
+        "name": "Susur Lee",
+        "specialty": "Fusion cuisine",
+        "notable_works": [
+            "Top Chef Masters"
+        ],
+        "picture_url": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2019/08/11/5965daa39d6c4843955cf86d581136f2_Chef+Susur+Lee_TungLok+Heen.jpg",
+        "likes": 18000,
+        "short_bio": "Susur Lee, a trailblazer in fusion cuisine, has left an indelible mark on the culinary landscape. His imaginative combinations of Chinese and Western flavors have earned him acclaim on 'Top Chef Masters' and in his own restaurants. With a career spanning over 30 years, Susur continues to push culinary boundaries.",
+        "years_of_experience": 35,
+        "recipes": [
+            {
+                "recipe_id": "r009",
+                "recipe_name": "Asian Pear Salad with Sesame Ginger Dressing",
+                "image_url": "https://example.com/asian_pear_salad.jpg",
+                "ingredients": [
+                    "Asian pears",
+                    "Mixed greens",
+                    "Sesame oil",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Slice pears and mix with greens, 2. Prepare dressing with sesame oil and ginger, 3. Toss and serve.",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": "r010",
+                "recipe_name": "Lobster and Shiitake Mushroom Risotto",
+                "image_url": "https://example.com/lobster_risotto.jpg",
+                "ingredients": [
+                    "Lobster tail",
+                    "Shiitake mushrooms",
+                    "Arborio rice",
+                    "White wine"
+                ],
+                "cooking_method": "1. Sauté mushrooms and lobster, 2. Add rice and wine, 3. Gradually add broth, 4. Garnish and serve.",
+                "rating": 4.9
+            },
+            {
+                "recipe_id": "r019",
+                "recipe_name": "Five-Spice Braised Short Ribs",
+                "image_url": "https://example.com/braised_short_ribs.jpg",
+                "ingredients": [
+                    "Beef short ribs",
+                    "Five-spice powder",
+                    "Soy sauce",
+                    "Star anise"
+                ],
+                "cooking_method": "1. Season ribs with five-spice powder, 2. Braise with soy sauce and star anise, 3. Roast until tender, 4. Serve with sauce.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "r020",
+                "recipe_name": "Ginger Scallion Noodles",
+                "image_url": "https://example.com/ginger_scallion_noodles.jpg",
+                "ingredients": [
+                    "Egg noodles",
+                    "Ginger",
+                    "Scallions",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Cook noodles, 2. Sauté ginger and scallions, 3. Toss with noodles and soy sauce, 4. Garnish and serve.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": "chef004",
+        "name": "Ken Hom",
+        "specialty": "Chinese-American cuisine",
+        "notable_works": [
+            "Ken Hom's Chinese Cookery"
+        ],
+        "picture_url": "https://static.euronews.com/articles/stories/07/07/01/40/808x1206_cmsv2_eb4e849a-8407-5018-aed3-09e33ef312f3-7070140.jpg",
+        "likes": 10000,
+        "short_bio": "Ken Hom, a pioneer in Chinese-American cuisine, has been a prominent figure in the culinary world for over 40 years. His expertise in creating authentic Chinese dishes with a modern twist has made him a household name. Through his books and TV shows, Ken has inspired countless home cooks to explore the richness of Chinese cuisine.",
+        "years_of_experience": 42,
+        "recipes": [
+            {
+                "recipe_id": "r011",
+                "recipe_name": "Mongolian Beef with Scallions",
+                "image_url": "https://example.com/mongolian_beef.jpg",
+                "ingredients": [
+                    "Beef flank steak",
+                    "Scallions",
+                    "Soy sauce",
+                    "Hoisin sauce"
+                ],
+                "cooking_method": "1. Slice beef and scallions, 2. Sauté beef, 3. Add soy sauce and hoisin sauce, 4. Stir-fry and serve.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "r012",
+                "recipe_name": "Chop Suey with Shrimp and Vegetables",
+                "image_url": "https://example.com/chop_suey.jpg",
+                "ingredients": [
+                    "Shrimp",
+                    "Mixed vegetables",
+                    "Bean sprouts",
+                    "Oyster sauce"
+                ],
+                "cooking_method": "1. Stir-fry shrimp and vegetables, 2. Add bean sprouts and oyster sauce, 3. Serve over rice.",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": "r021",
+                "recipe_name": "Szechuan Spicy Chicken",
+                "image_url": "https://example.com/szechuan_spicy_chicken.jpg",
+                "ingredients": [
+                    "Chicken thighs",
+                    "Chilies",
+                    "Sichuan peppercorns",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Marinate chicken, 2. Stir-fry with chilies and peppercorns, 3. Add soy sauce, 4. Serve over noodles.",
+                "rating": 4.9
+            },
+            {
+                "recipe_id": "r022",
+                "recipe_name": "Egg Fu Young",
+                "image_url": "https://example.com/egg_fu_young.jpg",
+                "ingredients": [
+                    "Eggs",
+                    "Bean sprouts",
+                    "Shrimp",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Mix eggs, bean sprouts, and shrimp, 2. Pan-fry until golden, 3. Serve with soy sauce, 4. Garnish with green onions.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": "chef005",
+        "name": "Dong Zhenxiang",
+        "specialty": "Peking duck",
+        "notable_works": [
+            "Da Dong Roast Duck Restaurant"
+        ],
+        "picture_url": "https://www.thebeijinger.com/sites/default/files/thebeijinger/blog-images/313215/dadong.jpg",
+        "likes": 9000,
+        "short_bio": "Dong Zhenxiang, a maestro of Peking duck, has dedicated his culinary career to perfecting this iconic Chinese dish. As the founder of the acclaimed Da Dong Roast Duck Restaurant, Dong has gained international recognition for his commitment to quality and tradition. With over 30 years of experience, he continues to redefine the art of roasting duck.",
+        "years_of_experience": 32,
+        "recipes": [
+            {
+                "recipe_id": "r013",
+                "recipe_name": "Crispy Peking Duck",
+                "image_url": "https://example.com/crispy_peking_duck.jpg",
+                "ingredients": [
+                    "Whole duck",
+                    "Hoisin sauce",
+                    "Pancakes",
+                    "Cucumber"
+                ],
+                "cooking_method": "1. Air-dry duck, 2. Roast until crispy, 3. Serve with hoisin sauce, pancakes, and cucumber.",
+                "rating": 4.9
+            },
+            {
+                "recipe_id": "r014",
+                "recipe_name": "Peking Duck Noodle Soup",
+                "image_url": "https://example.com/peking_duck_noodle_soup.jpg",
+                "ingredients": [
+                    "Peking duck leftovers",
+                    "Chinese noodles",
+                    "Bok choy",
+                    "Chicken broth"
+                ],
+                "cooking_method": "1. Prepare noodles and broth, 2. Add shredded duck, bok choy, 3. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": "r023",
+                "recipe_name": "Five-Spice Roasted Pork Belly",
+                "image_url": "https://example.com/roasted_pork_belly.jpg",
+                "ingredients": [
+                    "Pork belly",
+                    "Five-spice powder",
+                    "Garlic",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Rub pork belly with five-spice powder and garlic, 2. Roast until crispy, 3. Slice and serve with soy sauce.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "r024",
+                "recipe_name": "Vegetarian Spring Rolls",
+                "image_url": "https://example.com/vegetarian_spring_rolls.jpg",
+                "ingredients": [
+                    "Rice paper",
+                    "Shredded cabbage",
+                    "Carrots",
+                    "Bean sprouts"
+                ],
+                "cooking_method": "1. Soak rice paper, 2. Fill with vegetables, 3. Roll tightly, 4. Serve with dipping sauce.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": "chef006",
+        "name": "Yu Bo",
+        "specialty": "Huaiyang cuisine",
+        "notable_works": [
+            "Lei Garden"
+        ],
+        "picture_url": "https://video-images.vice.com/articles/59030e3657ce532208a41f40/lede/1493372725547-chef-yu-bo-chengdu-family-kitchen.jpeg",
+        "likes": 8500,
+        "short_bio": "Yu Bo, a master of Huaiyang cuisine, has earned acclaim for his culinary artistry at the renowned Lei Garden. With over 25 years of experience, Yu Bo showcases the delicate and refined flavors of Huaiyang cuisine, delighting diners around the world. His dedication to preserving traditional Chinese culinary techniques sets him apart in the culinary scene.",
+        "years_of_experience": 27,
+        "recipes": [
+            {
+                "recipe_id": "r015",
+                "recipe_name": "Beggar's Chicken",
+                "image_url": "https://example.com/beggars_chicken.jpg",
+                "ingredients": [
+                    "Whole chicken",
+                    "Lotus leaves",
+                    "Shaoxing wine",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Marinate chicken, 2. Wrap in lotus leaves, 3. Bake until tender, 4. Serve with wine and ginger.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "r016",
+                "recipe_name": "Yangzhou Fried Rice",
+                "image_url": "https://example.com/yangzhou_fried_rice.jpg",
+                "ingredients": [
+                    "Cooked rice",
+                    "Shrimp",
+                    "Ham",
+                    "Eggs"
+                ],
+                "cooking_method": "1. Sauté shrimp and ham, 2. Add rice and eggs, 3. Stir-fry until golden, 4. Serve hot.",
+                "rating": 4.9
+            },
+            {
+                "recipe_id": "r025",
+                "recipe_name": "Fish Head Soup with Pickled Mustard Greens",
+                "image_url": "https://example.com/fish_head_soup.jpg",
+                "ingredients": [
+                    "Fish head",
+                    "Pickled mustard greens",
+                    "Ginger",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Boil fish head and greens, 2. Add ginger and soy sauce, 3. Simmer until flavors meld, 4. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": "r026",
+                "recipe_name": "Steamed Crab with Chinese Rice Wine",
+                "image_url": "https://example.com/steamed_crab.jpg",
+                "ingredients": [
+                    "Crab",
+                    "Chinese rice wine",
+                    "Scallions",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Clean and steam crab with wine, 2. Garnish with scallions and ginger, 3. Serve hot.",
+                "rating": 4.7
+            }
+        ]
+    }
+]
